@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there, I am Pratiksha 👋
+### I would love to connect to JAVA developers
 <!--
 **Pratiksha15k/Pratiksha15k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
